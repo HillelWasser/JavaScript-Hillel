@@ -1,1 +1,1 @@
-# JavaScript-Hillel
+# javaScript
