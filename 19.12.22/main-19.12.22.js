@@ -37,7 +37,6 @@ function tellFortune(children,partner,location,job) {
 
 //Write a function that takes in a 7 digits number and returns the number as a string with commas as thousand separators. For example, the number 1234567 should be returned as "1,234,567"
 function numToString(num) {
-    
     return num.toLocaleString();
 }
 console.log(numToString(3456789))
