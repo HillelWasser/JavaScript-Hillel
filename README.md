@@ -1,1 +1,1 @@
-# javascript-hillel
+# localStorage-js
